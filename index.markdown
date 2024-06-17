@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to Kosova. A great place of beautiful rivers, mountains, and delicious food. The weather is super, too.
